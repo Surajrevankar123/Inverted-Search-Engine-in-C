@@ -1,0 +1,15 @@
+#:2
+c:1:file2.txt:2:
+#:3
+data:1:file2.txt:2:
+#:8
+interesting:1:file2.txt:2:
+is:1:file2.txt:2:
+#:11
+language:1:file2.txt:2:
+#:18
+structures:1:file2.txt:2:
+#:20
+using:1:file2.txt:2:
+#:21
+very:1:file2.txt:2:
